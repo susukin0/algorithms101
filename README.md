@@ -1,6 +1,6 @@
 # algorithms
 
-a little bit homework of pseudocode diagrams for SkyLab BootCamp :) ![96308083](https://github.com/susukin0/algorithms101/assets/70662829/4c96aac3-35a3-459f-8d24-0b4cb176d42a)
+ ![96308083](https://github.com/susukin0/algorithms101/assets/70662829/4c96aac3-35a3-459f-8d24-0b4cb176d42a) a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
 
 
 ### Sayı asal mı diye kontrol eden diagram
