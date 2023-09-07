@@ -17,7 +17,7 @@ Sayı asal mı diye kontrol eden diagram için metinsel ifade:
     4.2: bitir
 
 5.adim: eger X > 2 ise
-    5.1: 2'den X'e kadar olan her İ sayısı için:
+    5.1: 2'den X'e kadar (X dahil degil) olan her İ sayısı için:
     5.2: X'in İ'ye olan bölümünden kalan 0:
     5.3: Doğru ise X "asal bir sayidir."
     5.4: bitir.
