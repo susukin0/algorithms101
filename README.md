@@ -32,7 +32,7 @@ Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/s
 ![primenumber](https://github.com/susukin0/algorithms101/assets/70662829/4ad03244-8d1e-413e-8a3d-2f63f9149c5e)
 
 _____________________________________________________
-### Girilen sayının faktöriyelinin bulan algoritma
+### Girilen sayının faktöriyelini bulan algoritma
 metinsel ifadesi:
 ```sh
    1.adim: başla.
