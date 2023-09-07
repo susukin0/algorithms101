@@ -3,7 +3,8 @@ a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
 
 
 
-## Sayı asal mı diye kontrol eden diagram için metinsel ifade:
+## Sayı asal mı diye kontrol eden diagram
+metinsel ifadesi:
 ```sh
 1.adim: basla
 2.adim: "Bir sayı girin:", X
@@ -26,6 +27,6 @@ a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
     5.5: Yanlış ise X "asal bir sayı değildir."
     5.6: bitir.
 ```
-Sayı asal mı diye kontrol eden Diagram aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/primenumber.py):
+Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/primenumber.py):
 
 ![primenumber](https://github.com/susukin0/algorithms101/assets/70662829/64d8462c-4bda-4a37-ba45-6204a76d6f30)
