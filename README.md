@@ -3,7 +3,7 @@ a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
 
 
 
-## Sayı asal mı diye kontrol eden diagram
+### Sayı asal mı diye kontrol eden diagram
 metinsel ifadesi:
 ```sh
 1.adim: basla
