@@ -1,4 +1,4 @@
-# algorithms
+# algorithms start!
 
  ![96308083](https://github.com/susukin0/algorithms101/assets/70662829/4c96aac3-35a3-459f-8d24-0b4cb176d42a) a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
 
@@ -61,3 +61,6 @@ metinsel ifadesi:
 8.adim: bitir.
 ```
 Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/10square110.py):
+![10square110](https://github.com/susukin0/algorithms101/assets/70662829/7161b1b2-ba04-441a-8596-84ae71f2875d)
+stop!
+
