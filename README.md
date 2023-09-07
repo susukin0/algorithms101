@@ -43,7 +43,7 @@ metinsel ifadesi:
    6.adim: faktoriyelin yazdirilmasi.
    7.adim: bitir.
 ```
-Diagram ise aşağıdaki şekildedir (python kodu icin bkz. ):
+Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/faktoriyel.py):
 
 _____________________________________________________________
 ### 10 ile 110 arasındaki tam kare sayıları yazdıran algoritma
