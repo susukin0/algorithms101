@@ -38,7 +38,7 @@ metinsel ifadesi:
    1.adim: başla.
    2.adim: n adlı bir değişken belirlenir.
    3.adim: faktoriyel değişkeni 1 e eşitlenir.
-   4.adim: 1den n e kadar olan sayilar icin
+   4.adim: 1den n+1 e kadar olan her i sayisi icin
    5.adim: faktoriyel değeri her döngü adımında i ile çarpılır.
    6.adim: faktoriyelin yazdirilmasi.
    7.adim: bitir.
