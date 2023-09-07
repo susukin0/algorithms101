@@ -26,4 +26,5 @@ Sayı asal mı diye kontrol eden diagram için metinsel ifade:
     5.5: Yanlış ise X "asal bir sayı değildir."
     5.6: bitir.
 ```
-![alt text]([http://url/to/img.png](https://github.com/susukin0/algorithms101/blob/main/primenumber.JPG)https://github.com/susukin0/algorithms101/blob/main/primenumber.JPG)
+![alt text]([![primenumber](https://github.com/susukin0/algorithms101/assets/70662829/28272b40-4589-4c5b-be74-471420b64458)
+)
