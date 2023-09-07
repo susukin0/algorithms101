@@ -40,12 +40,10 @@ metinsel ifadesi:
 1.adim: basla
 2.adim: baslangic(10) ve bitis(110) aralıklarını tanımla.
 3.adim: (döngü başlat) baslangic ve bitis+1 arasındaki her i sayısı için
-4.adim: i 'nin karekökünü al.
+4.adim: i nin karekökünü al.
 5.adim: Eğer karekök tam sayıysa, bu bir tam karedir.
 6.adim: dogruysa ekrana yaz.
 7.adim: yanlissa aralik sonuna kadar dongu.
 8.adim: bitir.
-
-
 ```
 
