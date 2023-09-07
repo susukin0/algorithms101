@@ -29,7 +29,8 @@ metinsel ifadesi:
 ```
 Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/primenumber.py):
 
-![primenumber](https://github.com/susukin0/algorithms101/assets/70662829/4ad03244-8d1e-413e-8a3d-2f63f9149c5e)
+![primenumber-1](https://github.com/susukin0/algorithms101/assets/70662829/a7986d4b-f3d4-4521-82a8-11e69a949c8d)
+
 
 _____________________________________________________
 ### Girilen sayının faktöriyelini bulan algoritma
