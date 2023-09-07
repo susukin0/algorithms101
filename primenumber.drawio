@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:24:08.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="fhoiEUYP9RO3K5QEK_bv" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:29:45.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="71HJyXk6oKGJy4shntmF" version="21.7.2" type="github">
   <diagram name="Page-1" id="xMceBH584eg32xvEKxVm">
-    <mxGraphModel dx="636" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,14 @@
         <mxCell id="krMiUuL-qzigSKpsnWHl-15" value="&lt;div&gt;Eger X =&amp;lt;1&amp;nbsp;&lt;/div&gt;&lt;div&gt;ise&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="krMiUuL-qzigSKpsnWHl-21" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="krMiUuL-qzigSKpsnWHl-21" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krMiUuL-qzigSKpsnWHl-22" value="X &quot;Bir asal degildir.&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krMiUuL-qzigSKpsnWHl-23" value="Bitir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="690" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
