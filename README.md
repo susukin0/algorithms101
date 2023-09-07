@@ -45,6 +45,7 @@ metinsel ifadesi:
    7.adim: bitir.
 ```
 Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/faktoriyel.py):
+![faktoriyel-1](https://github.com/susukin0/algorithms101/assets/70662829/11eb547b-fa27-4a51-ba73-30341a8a8dc4)
 
 _____________________________________________________________
 ### 10 ile 110 arasındaki tam kare sayıları yazdıran algoritma
