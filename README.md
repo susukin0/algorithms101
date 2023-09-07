@@ -33,6 +33,12 @@ Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/s
 
 _____________________________________________________
 ### Girilen sayının faktöriyelinin bulan algoritma
+metinsel ifadesi:
+```sh
+
+```
+Diagram ise aşağıdaki şekildedir (python kodu icin bkz. ):
+
 _____________________________________________________________
 ### 10 ile 110 arasındaki tam kare sayıları yazdıran algoritma
 metinsel ifadesi:
