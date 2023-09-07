@@ -45,6 +45,5 @@ metinsel ifadesi:
 6.adim: dogruysa ekrana yaz.
 7.adim: yanlissa aralik sonuna kadar dongu.
 8.adim: bitir.
-
 ```
 
