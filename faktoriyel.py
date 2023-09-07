@@ -7,4 +7,4 @@ for i in range(1, n + 1):
     faktoriyel *= i
 
 # Sonucun Yazdırılması
-print(f"{n}! = {faktoriyel}")
+print(faktoriyel)
