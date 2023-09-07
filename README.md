@@ -19,7 +19,7 @@ metinsel ifadesi:
     4.2: bitir
     4.3: Degilse devam et
 
-5.adim: Döngü başlangıcı İ=2
+5.adim: Döngü(for loop) başlangıcı İ=2
     5.1: 2'den X'e kadar (X dahil degil) olan her İ sayısı için:
     5.2: X'in İ'ye olan bölümünden kalan 0:
     5.3: Doğru ise X "asal bir sayidir."
