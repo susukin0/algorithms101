@@ -3,7 +3,7 @@
  ![96308083](https://github.com/susukin0/algorithms101/assets/70662829/4c96aac3-35a3-459f-8d24-0b4cb176d42a) a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
 
 
-### Sayı asal mı diye kontrol eden diagram
+### Sayı asal mı diye kontrol eden algoritma
 metinsel ifadesi:
 ```sh
 1.adim: basla
@@ -30,3 +30,9 @@ metinsel ifadesi:
 Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/primenumber.py):
 
 ![primenumber](https://github.com/susukin0/algorithms101/assets/70662829/64d8462c-4bda-4a37-ba45-6204a76d6f30)
+
+
+### Girilen sayının faktöriyelinin bulan algoritma
+
+### 10 ile 110 arasındaki tam kare sayıları yazdıran algoritma
+
