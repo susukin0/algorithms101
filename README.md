@@ -9,7 +9,7 @@ metinsel ifadesi:
 1.adim: basla
 2.adim: "Bir sayı girin:", X
 
-3.adim: eger X =< 1 ise
+3.adim: eger X <= 1 ise
     3.1: X "asal bir sayı değildir."
     3.2: bitir
     3.3: Degilse devam et
