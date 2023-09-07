@@ -46,4 +46,4 @@ metinsel ifadesi:
 7.adim: yanlissa aralik sonuna kadar dongu.
 8.adim: bitir.
 ```
-
+Diagram ise aşağıdaki şekildedir (python kodu icin bkz. https://github.com/susukin0/algorithms101/blob/main/10square110.py):
