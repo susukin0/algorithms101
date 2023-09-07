@@ -1,7 +1,9 @@
 # algorithms
 a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
 
-Sayı asal mı diye kontrol eden diagram için metinsel ifade
+
+
+Sayı asal mı diye kontrol eden diagram için metinsel ifade:
 ```sh
 1.adim: basla
 2.adim: "Bir sayı girin:", X
