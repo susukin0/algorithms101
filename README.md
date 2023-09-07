@@ -1,2 +1,2 @@
 # algorithms
-a little bit homework of pseudocode diagrams
+a little bit homework of pseudocode diagrams for SkyLab BootCamp :)
