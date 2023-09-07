@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T21:03:39.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="wMZzo4s8AgBDSep3fzIU" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T21:19:48.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="vGfR9iwRf_IWlUkTwMMp" version="21.7.2" type="github">
   <diagram name="Page-1" id="gcEwn29loAmzJmmoTVuH">
-    <mxGraphModel dx="1105" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,43 @@
         <mxCell id="92CLc1SvpzJkLs1COwhI-8" value="&lt;pre&gt;1&#39;den n+1&#39;e&lt;br&gt;kadar olan i&lt;br&gt;sayisi icin&lt;br&gt;&lt;/pre&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="92CLc1SvpzJkLs1COwhI-10" value="faktoriyel *= i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="92CLc1SvpzJkLs1COwhI-10" value="faktoriyel = faktoriyel * i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="460" as="sourcePoint" />
+            <mxPoint x="540" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.47" y="490" as="sourcePoint" />
+            <mxPoint x="409.47" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92CLc1SvpzJkLs1COwhI-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-16" value="faktoriyel" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="92CLc1SvpzJkLs1COwhI-17" value="Bitir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="690" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
